@@ -1,4 +1,4 @@
-<h1>Superstore Sales Analysis</h1>
+<h1>Kickstarter Campaign Analysis in New York State</h1>
 
 
 <h2>Description</h2>
